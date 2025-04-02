@@ -1,0 +1,54 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Hello World",
+      "content": "This is a test post."
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "postId": 1,
+      "content": "Great post!"
+    }
+  ],
+  "todos": [
+    {
+      "id": "2",
+      "title": "Learn TypeScript",
+      "completed": true,
+      "userId": 2
+    },
+    {
+      "id": "3",
+      "title": "Build a Todo App",
+      "completed": false,
+      "userId": 3
+    },
+    {
+      "id": "4",
+      "title": "Deploy to production",
+      "completed": false,
+      "userId": 4
+    },
+    {
+      "id": "5",
+      "title": "Master Next.js",
+      "completed": false,
+      "userId": 5
+    },
+    {
+      "id": "6",
+      "title": "Learn Tailwind CSS",
+      "completed": false,
+      "userId": 6
+    },
+    {
+      "id": 7,
+      "title": "Learn Devops",
+      "completed": false,
+      "userId": 1
+    }
+  ]
+}
